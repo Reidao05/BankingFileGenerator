@@ -1,0 +1,63 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BankingFileGenerator.Lib", "BankingFileGenerator.Lib\BankingFileGenerator.Lib.csproj", "{4FD0AD07-ED5E-4F26-8746-9CB8793B362F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BankingFileGenerator.App", "BankingFileGenerator.App\BankingFileGenerator.App.csproj", "{6B6837CA-5417-4791-9D2B-91357C11B4A4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BankingFileGenerator.Tests", "BankingFileGenerator.Tests\BankingFileGenerator.Tests.csproj", "{9C521ACA-C1EA-4002-886F-F0E2F48768D5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4FD0AD07-ED5E-4F26-8746-9CB8793B362F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4FD0AD07-ED5E-4F26-8746-9CB8793B362F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4FD0AD07-ED5E-4F26-8746-9CB8793B362F}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{4FD0AD07-ED5E-4F26-8746-9CB8793B362F}.Debug|x64.Build.0 = Debug|Any CPU
+		{4FD0AD07-ED5E-4F26-8746-9CB8793B362F}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{4FD0AD07-ED5E-4F26-8746-9CB8793B362F}.Debug|x86.Build.0 = Debug|Any CPU
+		{4FD0AD07-ED5E-4F26-8746-9CB8793B362F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4FD0AD07-ED5E-4F26-8746-9CB8793B362F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4FD0AD07-ED5E-4F26-8746-9CB8793B362F}.Release|x64.ActiveCfg = Release|Any CPU
+		{4FD0AD07-ED5E-4F26-8746-9CB8793B362F}.Release|x64.Build.0 = Release|Any CPU
+		{4FD0AD07-ED5E-4F26-8746-9CB8793B362F}.Release|x86.ActiveCfg = Release|Any CPU
+		{4FD0AD07-ED5E-4F26-8746-9CB8793B362F}.Release|x86.Build.0 = Release|Any CPU
+		{6B6837CA-5417-4791-9D2B-91357C11B4A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B6837CA-5417-4791-9D2B-91357C11B4A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B6837CA-5417-4791-9D2B-91357C11B4A4}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{6B6837CA-5417-4791-9D2B-91357C11B4A4}.Debug|x64.Build.0 = Debug|Any CPU
+		{6B6837CA-5417-4791-9D2B-91357C11B4A4}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{6B6837CA-5417-4791-9D2B-91357C11B4A4}.Debug|x86.Build.0 = Debug|Any CPU
+		{6B6837CA-5417-4791-9D2B-91357C11B4A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B6837CA-5417-4791-9D2B-91357C11B4A4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6B6837CA-5417-4791-9D2B-91357C11B4A4}.Release|x64.ActiveCfg = Release|Any CPU
+		{6B6837CA-5417-4791-9D2B-91357C11B4A4}.Release|x64.Build.0 = Release|Any CPU
+		{6B6837CA-5417-4791-9D2B-91357C11B4A4}.Release|x86.ActiveCfg = Release|Any CPU
+		{6B6837CA-5417-4791-9D2B-91357C11B4A4}.Release|x86.Build.0 = Release|Any CPU
+		{9C521ACA-C1EA-4002-886F-F0E2F48768D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C521ACA-C1EA-4002-886F-F0E2F48768D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C521ACA-C1EA-4002-886F-F0E2F48768D5}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{9C521ACA-C1EA-4002-886F-F0E2F48768D5}.Debug|x64.Build.0 = Debug|Any CPU
+		{9C521ACA-C1EA-4002-886F-F0E2F48768D5}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{9C521ACA-C1EA-4002-886F-F0E2F48768D5}.Debug|x86.Build.0 = Debug|Any CPU
+		{9C521ACA-C1EA-4002-886F-F0E2F48768D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C521ACA-C1EA-4002-886F-F0E2F48768D5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C521ACA-C1EA-4002-886F-F0E2F48768D5}.Release|x64.ActiveCfg = Release|Any CPU
+		{9C521ACA-C1EA-4002-886F-F0E2F48768D5}.Release|x64.Build.0 = Release|Any CPU
+		{9C521ACA-C1EA-4002-886F-F0E2F48768D5}.Release|x86.ActiveCfg = Release|Any CPU
+		{9C521ACA-C1EA-4002-886F-F0E2F48768D5}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		StartupProject = BankingFileGenerator.App
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
